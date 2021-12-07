@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Nov 11 14:08:40 2019
+# Process ID: 15200
+# Current directory: C:/Users/JAY/Downloads/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7492 C:\Users\JAY\Downloads\THE_ENDGAME_FPGA\FPGA_IMPLEMENTATION_ENDGAME\FPGA_IMPLEMENTATION_ENDGAME.xpr
+# Log file: C:/Users/JAY/Downloads/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME/vivado.log
+# Journal file: C:/Users/JAY/Downloads/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/JAY/Downloads/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME/FPGA_IMPLEMENTATION_ENDGAME.xpr
+update_compile_order -fileset sources_1

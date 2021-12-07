@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Nov 11 01:58:08 2019
+# Process ID: 4976
+# Current directory: C:/Users/RAGHAV/Desktop/DS Project/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent37836 C:\Users\RAGHAV\Desktop\DS Project\THE_ENDGAME_FPGA\FPGA_IMPLEMENTATION_ENDGAME\FPGA_IMPLEMENTATION_ENDGAME.xpr
+# Log file: C:/Users/RAGHAV/Desktop/DS Project/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME/vivado.log
+# Journal file: C:/Users/RAGHAV/Desktop/DS Project/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/RAGHAV/Desktop/DS Project/THE_ENDGAME_FPGA/FPGA_IMPLEMENTATION_ENDGAME/FPGA_IMPLEMENTATION_ENDGAME.xpr}
+update_compile_order -fileset sources_1
+save_project_as FFFFFINAL_IMPLEMENTATION {C:/Users/RAGHAV/Desktop/DS Project/FFFFFINAL_IMPLEMENTATION} -exclude_run_results -force
